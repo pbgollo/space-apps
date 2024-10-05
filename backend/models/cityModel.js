@@ -1,1 +1,1 @@
-// City model with PostgreSQL/PostGIS queries 
+// City model definition 

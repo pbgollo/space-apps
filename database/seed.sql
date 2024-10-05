@@ -1,1 +1,1 @@
--- SQL script to seed initial data 
+-- SQL script to seed the database with data 

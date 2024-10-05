@@ -1,1 +1,1 @@
-// River model with PostgreSQL/PostGIS queries 
+// River model definition 

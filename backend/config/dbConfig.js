@@ -1,1 +1,1 @@
-// PostgreSQL and server configuration 
+// Database configuration 

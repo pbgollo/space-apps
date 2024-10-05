@@ -1,1 +1,1 @@
-// API routes for cities 
+// City routes 
